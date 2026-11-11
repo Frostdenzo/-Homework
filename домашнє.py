@@ -10,7 +10,7 @@ else:
 result = 1
 count = 0
 for i in range(start, end + 1):
-    # Перевіряємо ділення на 4
+
     if i % 4 == 0:
 
       if i % 6 != 0:
